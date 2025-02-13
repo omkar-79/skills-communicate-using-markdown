@@ -4,3 +4,11 @@
 
 ![DaftPunk GIF](https://octodex.github.com/images/steroidtocat.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+var = "Hello, world!";
+```
+
+``` java
+code = "hello"
+```
