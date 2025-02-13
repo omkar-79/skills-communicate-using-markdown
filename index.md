@@ -12,3 +12,9 @@ var = "Hello, world!";
 ``` java
 code = "hello"
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [x] Work Done!
